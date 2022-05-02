@@ -1,0 +1,57 @@
+.best{
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+color: #22262A;
+}
+
+.All{
+font-style: normal;
+font-weight: 400;
+font-family:cursive;
+font-size: 22px;
+color: #33A0FF;
+text-decoration: underline;
+}
+
+.Bags{
+    font-style: normal;
+    font-weight: 400;
+    font-family:cursive;
+    font-size: 22px;
+    color: #22262A;
+    }
+ .Bags:hover{
+    color: #33A0FF;
+ } 
+ .Sneakers{
+    font-style: normal;
+    font-weight: 400;
+    font-family:cursive;
+    font-size: 22px;
+    color: #22262A;
+    }
+ .Sneakers:hover{
+    color: #33A0FF;
+ }  
+ .Belt{
+    font-style: normal;
+    font-weight: 400;
+    font-family:cursive;
+    font-size: 22px;
+    color: #22262A;
+    }
+ .Belt:hover{
+    color: #33A0FF;
+ }
+
+ .Sunglasses{
+    font-style: normal;
+    font-weight: 400;
+    font-family:cursive;
+    font-size: 22px;
+    color: #22262A;
+    }
+ .Sunglasses:hover{
+    color: #33A0FF;
+ }

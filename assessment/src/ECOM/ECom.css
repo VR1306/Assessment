@@ -1,0 +1,16 @@
+.word1{
+font-family:cursive;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 27px;
+}
+.headings{
+font-style: normal;
+font-weight: 500 medium;
+font-size: 24px;
+line-height: 36px;
+}
+.hovering:hover{
+    color:#40BFFF;
+}

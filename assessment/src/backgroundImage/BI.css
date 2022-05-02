@@ -1,0 +1,99 @@
+.BackgroundImage{
+    background-image: url('Promotion.png');
+    padding:10%;
+    background-repeat: no-repeat;
+}
+.content1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+    margin-top:40%;
+}
+.content2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    letter-spacing: 0.5px;
+    color: #FFFFFF;
+}
+.Conforimg1{
+        position: absolute;
+        bottom:75%;
+        left: 4%;
+        color: #223263;
+        font-weight: 700;
+        font-size:20px;
+}
+
+.Con2forimg1{
+    position: absolute;
+    bottom:12%;
+    left: 2rem;
+    font-weight: 700;
+    font-size:18px;
+}
+.colorfor53{
+color: #9098B1;
+text-decoration:line-through;
+}
+.off{
+    color: #FB7181;
+    font-weight: 700;
+    font-size:18px;
+}
+.Con3forimg1{
+    position: absolute;
+    bottom:7%;
+    left:22%;
+    font-weight: 700;
+    font-size:22px;
+    color: #40BFFF;
+}
+.Conforimg2{
+    position: absolute;
+    bottom:75%;
+    left: 37%;
+    color: #223263;
+    font-weight: 700;
+    font-size:20px;
+}
+
+.Cont2forimg2{
+    position: absolute;
+    bottom:79%;
+    left: 57%;
+    font-weight: 700;
+    font-size:22px;
+    color: #40BFFF;
+}
+
+.Con2forimg2{
+    position: absolute;
+    bottom:2%;
+    left:43%;
+    font-weight: 700;
+    font-size:18px;
+}
+
+.Contentforimg3{
+    position: absolute;
+    bottom:65%;
+    left: 69%;
+    color: #223263;
+    font-weight: 700;
+    font-size:20px;
+}
+.Cont3forimg3{
+
+    position: absolute;
+    bottom:5%;
+    left: 77%;
+    font-weight: 700;
+    font-size:22px;
+    color: #40BFFF;
+
+}

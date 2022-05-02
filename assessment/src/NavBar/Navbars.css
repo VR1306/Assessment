@@ -1,0 +1,36 @@
+.text1{
+font-size: 20px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: 400;
+color: #262626;
+padding-top: 20px;
+}
+.navend{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 20px;
+    color: #262626;
+    overflow-x: hidden;
+}
+.dollar{
+    color:lightslategray;
+}
+.underlines{
+    border-bottom: #FAFAFB solid;
+    width: 1500px;
+    margin-top: 20px;
+    height: 2px;
+}
+.round{
+    height:15px;
+    width:15px;
+    background-color:#FB7181;
+    border-radius: 50%;
+    position: absolute;
+    font-size: 10px;
+    text-align: center;
+    color: #FAFAFB;
+    transform: translateX(80%);
+}

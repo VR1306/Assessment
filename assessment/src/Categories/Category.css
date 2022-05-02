@@ -1,0 +1,22 @@
+.Category{
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 33px;
+color: #C1C8CE;
+}
+.cards{
+    background-color: white;
+    position: absolute;
+    left:21%;
+    top:30%;
+    width:70%;
+    height:62%;
+}
+
+.catlog{
+font-weight: 400 bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 16px;
+color: #262626;
+}
